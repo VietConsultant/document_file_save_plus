@@ -28,7 +28,7 @@ android {
     compileSdk 34
     namespace "com.advoques.document_file_save_plus"
     kotlinOptions {
-        jvmTarget = 17
+        jvmTarget = "1.8"
     }
 
     sourceSets {
